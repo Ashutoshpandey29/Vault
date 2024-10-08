@@ -1,0 +1,8 @@
+
+
+User:- register, login, logout
+    :- after registration needs to verify email to login
+    :- crud for notes, tasks
+    :- add password to particular note and get that note by password
+    :- to get, update and delete secured notes - notes password is needed
+    :- user can search from everywhere - only non-secured notes will be provided
